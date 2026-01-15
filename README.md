@@ -3,7 +3,7 @@ Group Members Name:
 1. Maryam Khan   - SP23-BSE-066  -  Track Vehicle Location
 2. Fatima Khan   - SP23-BSE-102  -  Manage Booking ( Payment, Confirm Booking, View MyBookings)
 4. Alaina Khan   - SP23-BSE-069  -  Manage Booking ( View Available Vehicles, view routes details, Book journey, Cancel Booking)
-5. Warda Yousaf  - SP23-BSE-042  -  Login
+5. Warda Yousaf  - SP23-BSE-042  -  REGISTRATION LOGIN AND DASHBOARD 
 6. Kashmala Zeb  - SP23-BSE-048  -  Finance ( Manage fee structure, Generate Fee challan, Collect Payment, User Dashboard)
 7. Tehreem Jilani- SP23-BSE-041  -  Finance ( Track Defaulters, Refund Handling, Security and logs)
 8. Sarina Amjad  - SP22-BSE-095    Register
